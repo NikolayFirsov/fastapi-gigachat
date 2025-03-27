@@ -9,7 +9,7 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/fastapi-gigachat.git
+   git clone https://github.com/NikolayFirsov/fastapi-gigachat.git
    ````
    ```bash
    cd fastapi-gigachat
